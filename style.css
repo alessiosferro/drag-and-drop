@@ -10,7 +10,7 @@ body {
   background-image: url('http://source.unsplash.com/random/150x150');
   height: 150px;
   width: 150px;
-  cursor: pointer;
+  cursor: grab;
 }
 
 .empty {
